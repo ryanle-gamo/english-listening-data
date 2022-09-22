@@ -1,6 +1,6 @@
 {
-"latest_version": "2.2.9",
-"is_testing": true,
+"latest_version": "2.3.0",
+"is_testing": false,
   "file_url":"https://raw.githubusercontent.com/ryanle-gamo/english-listening-data/master/",
 "appstore_url": "http://itunes.apple.com/app/id1116045341",
   "stop_step_index_at":3,
